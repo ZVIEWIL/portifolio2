@@ -5,12 +5,20 @@
 
 [API 3° SEMESTRE - **CADASTRO POSITIVO**](https://github.com/ZVIEWIL/portifolio3)
 
+# API do 2° SEMESTRE - ***FATEC & NECTO - GANTT CHART***
 
-![Fatec-logo-9710C99301-seeklogo com](https://user-images.githubusercontent.com/61067500/81480184-54e16600-91fe-11ea-86d6-dbae737cefa1.png)   <img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/61067500/81479704-434a8f00-91fb-11ea-8d71-0cf029bc25ab.png">
+### **RESUMO DO PROJETO**
+No segundo API a FATEC trouxe o cliente NECTO com um problema a ser resolvido. O cliente buscava uma solução para gerenciar seus projetos e colaboradores, a aplicação deveria possibilitar a alocação dos recursos humanos em um gráfico de GANTT (tarefas em linhas de tempo), gerando métricas sobre a ocupação e o tempo disponível da equipe para novos projetos e contingências. 
 
-# PROJETO INTEGRADOR 2020.1 - FATEC & NECTO - GANTT CHART
+Desenvolvemos uma API Desktop que atendeu os seguintes requisitos do cliente:
+- Cadastro de Colaboradores: O sistema deve permite a inserção de colaboradores.
+- Cadastro de Tarefas: O sistema permite inserir novos projetos e tarefas relacionando colaboradores a elas.
+- Quantidade Total de Horas por Projeto: O sistema deve mostrar a quantidade de horas alocados em cada projeto.
+- Quantidade Total de Horas por Funcionário: O sistema deve mostrar a quantidade total de horas/mês alocada por funcionário.
+- Diagrama Interativo: 	Gerar gráficos de Gantt responsivos que ao ter a barra arrastada, calcule os prazos dos projetos, para melhor controle dos gestores.
 
-### I- RESUMO DO PROJETO
+
+
 
 Neste segundo Projeto Integrador, a FATEC trouxe o primeiro Cliente "NECTO" para que pudéssemos achar uma solução tecnológica para sanar e atender às necessidades do cliente. Este documento visa apresentar a solução tecnológica proposta pela equipe, possibilitando a identificação e classificação dos requisitos, que nortearão o desenvolvimento do projeto.
  
