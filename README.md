@@ -52,7 +52,11 @@ Pensando em diminuir nossa curva de aprendizado, utilizamos a Linguagem Java que
 Bibliotecas utilizadas:
 
 -JavaFx: É uma biblioteca para desenvolvimento de programas com interfaces gráficas em Java. Optamos por utiliza-la devido ao pouco conhecimento que os integrantes do grupo tinham com o Java, estavamos com dificuldade em integrar o back end em java com o front em html. Hoje em dia olhando para trás penso que a alternativa não foi tão assertiva, pois cada vez menos vemos aplicações desktop sendo utilizadas em clientes final.
+
 -Nebula: É uma biblioteca do Eclipse utilizada para desenvolver vários gadgets em aplicações. Encontramos ela durante as pesquisas que estavamos realizando para desenvolver o gráfico de Gantt com a possibilidade de fazer Drag and Drop nas tarefas. 
+
+#### **ECLIPSE**
+IDE utilizada para desenvover aplicações em Java. Utilizamos ela para desenvolver nossa aplicação.
 
 #### **MYSQL**
 ![Screenshot_6](https://user-images.githubusercontent.com/54503903/142946420-93441f77-23d9-41e2-aa16-007b24d0b993.png)
