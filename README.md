@@ -22,14 +22,21 @@ Tela de Login:
 
 ![Login](https://user-images.githubusercontent.com/61089745/141656980-681987ac-1e9d-4fe9-bceb-9d83434fb975.PNG)
 
+Tela Inicial:
+![Screenshot_1](https://user-images.githubusercontent.com/54503903/142918543-6449732c-71cd-4f7d-ad51-8f8a6923cc03.png)
+
 Tela de Cadastro de Projetos:
 ![CadastroProjetosII](https://user-images.githubusercontent.com/61089745/141657004-75236913-3a62-4006-990a-4f89f0475a45.PNG)
 
 Tela de cadastro de Funcionários:
 ![CadastroFuncionarios](https://user-images.githubusercontent.com/61089745/141657014-8a8603a8-4cef-4aad-8837-1d5aa535aebd.PNG)
 
-7- Tela de Cadastro da Tarefa com possibilidade de editar, excluir e cadastrar uma nova tarefa conectado ao banco de dados.
+Tela de Cadastro da Tarefas:
+![Screenshot_4](https://user-images.githubusercontent.com/54503903/142921705-dd120424-ecc4-4f22-a98c-2e894d0b7956.png)
 
+Tela de Visualização das Tarefas com barras responsivas com opção de salvar a alteração:
+![Screenshot_2](https://user-images.githubusercontent.com/54503903/142921293-0a2faf2e-959a-4585-bfdf-57be1982e232.png)
+![Screenshot_3](https://user-images.githubusercontent.com/54503903/142921627-716dd9fb-6270-45a8-b3f7-567944a5eda0.png)
 
 ################################################################################
 
