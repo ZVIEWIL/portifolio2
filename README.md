@@ -56,6 +56,8 @@ Bibliotecas utilizadas:
 -Nebula: É uma biblioteca do Eclipse utilizada para desenvolver vários gadgets em aplicações. Encontramos ela durante as pesquisas que estavamos realizando para desenvolver o gráfico de Gantt com a possibilidade de fazer Drag and Drop nas tarefas. 
 
 #### **ECLIPSE**
+![Screenshot_7](https://user-images.githubusercontent.com/54503903/142947249-51232914-04a4-413e-9821-1a520e37dd26.png)
+
 IDE utilizada para desenvover aplicações em Java. Utilizamos ela para desenvolver nossa aplicação.
 
 #### **MYSQL**
