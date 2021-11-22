@@ -66,9 +66,13 @@ Pensando da mesma forma que a tecnologia anterior, utilizamos o Banco de Dados M
 
 IDE utilizada para desenvolver aplicações em Java. Utilizamos ela para desenvolver nossa aplicação.
 
+### **CONTRIBUIÇÕES INDIVIDUAIS**
+Fiz a integração do back end com a lib Nebula, foi uma tarefa bastante desafiadora, pois a quantidade de tarefas e projetos a serem inseridos no gráfico varia de acordo com o que é criado ou deletado. Para realizar a tarefa utilizei vetores, estruturas de repetição (For), estrutura condicional (If/Else) e conversões de variáveis (String para Date).
 
+![Screenshot_8](https://user-images.githubusercontent.com/54503903/142952014-18f629eb-8777-44a1-87f5-c8f83ac1f8a2.png)
 
 ################################################################################
+### **APRENDIZADOS EFETIVOS**
 
  ### Descrição:
  
