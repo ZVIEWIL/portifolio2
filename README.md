@@ -71,6 +71,10 @@ Fiz a integração do back end com a lib Nebula, foi uma tarefa bastante desafia
 
 ![Screenshot_8](https://user-images.githubusercontent.com/54503903/142952014-18f629eb-8777-44a1-87f5-c8f83ac1f8a2.png)
 
+Fiz a adaptação para salvar as alterações feitas pelo usuário "drag and drop" no banco de dados.
+
+![Screenshot_9](https://user-images.githubusercontent.com/54503903/142952433-ee27ebf5-5c4d-4c86-b5c9-8b49106a815f.png)
+
 ################################################################################
 ### **APRENDIZADOS EFETIVOS**
 
