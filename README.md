@@ -38,7 +38,7 @@ Tela de Cadastro da Tarefas:
 
 ![Screenshot_4](https://user-images.githubusercontent.com/54503903/142921705-dd120424-ecc4-4f22-a98c-2e894d0b7956.png)
 
-Tela de Visualização das Tarefas com barras responsivas com opção de salvar a alteração:
+Tela de Visualização das Tarefas com barras responsivas e opção de salvar a alteração:
 
 ![Screenshot_2](https://user-images.githubusercontent.com/54503903/142921293-0a2faf2e-959a-4585-bfdf-57be1982e232.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/54503903/142921627-716dd9fb-6270-45a8-b3f7-567944a5eda0.png)
