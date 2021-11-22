@@ -10,12 +10,40 @@
 ### **RESUMO DO PROJETO**
 No segundo API a FATEC trouxe o cliente NECTO com um problema a ser resolvido. O cliente buscava uma solução para gerenciar seus projetos e colaboradores, a aplicação deveria possibilitar a alocação dos recursos humanos em um gráfico de GANTT (tarefas em linhas de tempo), gerando métricas sobre a ocupação e o tempo disponível da equipe para novos projetos e contingências. 
 
-Desenvolvemos uma API Desktop que atende os seguintes requisitos do cliente:
+Desenvolvemos uma API Desktop que atendeu os seguintes requisitos do cliente:
+- Cadastro de Usuários: Para utilizar o sistema é necessário estar cadastrado (Usuario e Senha).
 - Cadastro de Colaboradores: O sistema permite a inserção de colaboradores.
 - Cadastro de Tarefas: O sistema permite inserir novos projetos e tarefas relacionando colaboradores a elas.
 - Quantidade Total de Horas por Projeto: O sistema mostra a quantidade de horas alocados em cada projeto.
 - Quantidade Total de Horas por Funcionário: O sistema mostra a quantidade total de horas/mês alocada por funcionário.
 - Diagrama Interativo: 	O sistema gera gráficos de Gantt responsivos que ao ter a barra arrastada e depois de clicado em "salvar", refazia o calculo total de horas do projeto, total de horas das tarefa e total de horas acumuladas dos colaboradores.
+
+ 1- Estrutura do projeto dividido em camadas:
+ 
+ ![Estrutura](https://user-images.githubusercontent.com/61089745/141656917-4c7bceb8-5ca6-4b42-8643-a97302af5c39.PNG)
+
+2- Modelagem Conceitual para ser implantada no Banco de Dados MYSQL.
+
+![ModelagemConceitual](https://user-images.githubusercontent.com/61089745/141656940-7af9ae17-2bdd-4853-acbf-d6ee7405a267.PNG)
+
+3- Modelagem utilizada no Banco de Dados no MYSQL
+
+![ModelagemBD](https://user-images.githubusercontent.com/61089745/141656954-10700f13-b26b-4513-b51b-a5a20a4429e6.PNG)
+
+4- Tela de Login.
+
+![Login](https://user-images.githubusercontent.com/61089745/141656980-681987ac-1e9d-4fe9-bceb-9d83434fb975.PNG)
+
+5- Tela de Cadastro do Projeto com possibilidade de editar, excluir e cadastrar um novo projeto conectado ao banco de dados.
+
+![CadastroProjetosII](https://user-images.githubusercontent.com/61089745/141657004-75236913-3a62-4006-990a-4f89f0475a45.PNG)
+
+6- Tela de Cadastro do Funcionário com possibilidade de editar, excluir e cadastrar um novo funcionário conectado ao banco de dados.
+
+![CadastroFuncionarios](https://user-images.githubusercontent.com/61089745/141657014-8a8603a8-4cef-4aad-8837-1d5aa535aebd.PNG)
+
+7- Tela de Cadastro da Tarefa com possibilidade de editar, excluir e cadastrar uma nova tarefa conectado ao banco de dados.
+
 
 ################################################################################
 
