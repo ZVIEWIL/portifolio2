@@ -11,22 +11,12 @@
 No segundo API a FATEC trouxe o cliente NECTO com um problema a ser resolvido. O cliente buscava uma solução para gerenciar seus projetos e colaboradores, a aplicação deveria possibilitar a alocação dos recursos humanos em um gráfico de GANTT (tarefas em linhas de tempo), gerando métricas sobre a ocupação e o tempo disponível da equipe para novos projetos e contingências. 
 
 Desenvolvemos uma API Desktop que atendeu os seguintes requisitos do cliente:
-- Cadastro de Colaboradores: O sistema deve permite a inserção de colaboradores.
+- Cadastro de Colaboradores: O sistema permite a inserção de colaboradores.
 - Cadastro de Tarefas: O sistema permite inserir novos projetos e tarefas relacionando colaboradores a elas.
-- Quantidade Total de Horas por Projeto: O sistema deve mostrar a quantidade de horas alocados em cada projeto.
-- Quantidade Total de Horas por Funcionário: O sistema deve mostrar a quantidade total de horas/mês alocada por funcionário.
-- Diagrama Interativo: 	Gerar gráficos de Gantt responsivos que ao ter a barra arrastada, calcule os prazos dos projetos, para melhor controle dos gestores.
+- Quantidade Total de Horas por Projeto: O sistema mostra a quantidade de horas alocados em cada projeto.
+- Quantidade Total de Horas por Funcionário: O sistema mostra a quantidade total de horas/mês alocada por funcionário.
+- Diagrama Interativo: 	O sistema gera gráficos de Gantt responsivos que ao ter a barra arrastada e depois de clicado em "salvar", refazia o calculo total de horas do projeto, total de horas da tarefa e total de horas acumuladas do usuário.
 
-
-
-
-Neste segundo Projeto Integrador, a FATEC trouxe o primeiro Cliente "NECTO" para que pudéssemos achar uma solução tecnológica para sanar e atender às necessidades do cliente. Este documento visa apresentar a solução tecnológica proposta pela equipe, possibilitando a identificação e classificação dos requisitos, que nortearão o desenvolvimento do projeto.
- 
-A solução consiste numa aplicação visual de planejamento estratégico e gerenciamento de tempo dos seus recursos humanos em projetos de desenvolvimento de softwares (seu core business).
-
-Nesse passo, como característica principal, da qual decorrem as funcionalidades (requisitos), a aplicação deve possibilitar a alocação dos recursos humanos em um gráfico de GANTT (tarefas em linhas de tempo), gerando métricas sobre a ocupação e o tempo disponível da equipe para novos projetos e contingências. 
-
-A GUI (Graphical User Interface) permitirá o planejamento colaborativo sobre o uso do tempo, v.g. mudanças de pessoas em tarefas/projetos, cobertura de ausências/férias de colaboradores, determinação de data de início de novos projetos, carga de trabalho por colaborador etc. Será utilizado o Java como linguagem de programação.
 
  ### Descrição:
  
@@ -43,6 +33,9 @@ Com base nesse briefing, solicita um programa simples e funcional, de baixa manu
 * Permitir a divisão de uma tarefa por dia (um dia = unidade mínima de tempo);
 * Exportar arquivo para envio a terceiros (cliente e outros stakeholders, em PDF ou HTML ou GDOCs);
 * Gerar Relatório;
+
+
+################################################################################
 
 
 ### Proposta
