@@ -22,10 +22,10 @@ Tela de Login:
 
 ![Login](https://user-images.githubusercontent.com/61089745/141656980-681987ac-1e9d-4fe9-bceb-9d83434fb975.PNG)
 
-Tela de Cadastro de Projeto:
+Tela de Cadastro de Projetos:
 ![CadastroProjetosII](https://user-images.githubusercontent.com/61089745/141657004-75236913-3a62-4006-990a-4f89f0475a45.PNG)
 
-Tela de cadastro de colaborador:
+Tela de cadastro de Funcionários:
 ![CadastroFuncionarios](https://user-images.githubusercontent.com/61089745/141657014-8a8603a8-4cef-4aad-8837-1d5aa535aebd.PNG)
 
 7- Tela de Cadastro da Tarefa com possibilidade de editar, excluir e cadastrar uma nova tarefa conectado ao banco de dados.
