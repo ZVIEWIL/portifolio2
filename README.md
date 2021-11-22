@@ -10,13 +10,14 @@
 ### **RESUMO DO PROJETO**
 No segundo API a FATEC trouxe o cliente NECTO com um problema a ser resolvido. O cliente buscava uma solução para gerenciar seus projetos e colaboradores, a aplicação deveria possibilitar a alocação dos recursos humanos em um gráfico de GANTT (tarefas em linhas de tempo), gerando métricas sobre a ocupação e o tempo disponível da equipe para novos projetos e contingências. 
 
-Desenvolvemos uma API Desktop que atendeu os seguintes requisitos do cliente:
+Desenvolvemos uma API Desktop que atende os seguintes requisitos do cliente:
 - Cadastro de Colaboradores: O sistema permite a inserção de colaboradores.
 - Cadastro de Tarefas: O sistema permite inserir novos projetos e tarefas relacionando colaboradores a elas.
 - Quantidade Total de Horas por Projeto: O sistema mostra a quantidade de horas alocados em cada projeto.
 - Quantidade Total de Horas por Funcionário: O sistema mostra a quantidade total de horas/mês alocada por funcionário.
-- Diagrama Interativo: 	O sistema gera gráficos de Gantt responsivos que ao ter a barra arrastada e depois de clicado em "salvar", refazia o calculo total de horas do projeto, total de horas da tarefa e total de horas acumuladas do usuário.
+- Diagrama Interativo: 	O sistema gera gráficos de Gantt responsivos que ao ter a barra arrastada e depois de clicado em "salvar", refazia o calculo total de horas do projeto, total de horas das tarefa e total de horas acumuladas dos colaboradores.
 
+################################################################################
 
  ### Descrição:
  
@@ -35,7 +36,7 @@ Com base nesse briefing, solicita um programa simples e funcional, de baixa manu
 * Gerar Relatório;
 
 
-################################################################################
+
 
 
 ### Proposta
