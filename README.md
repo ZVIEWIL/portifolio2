@@ -43,6 +43,23 @@ Tela de Visualização das Tarefas com barras responsivas e opção de salvar a 
 ![Screenshot_2](https://user-images.githubusercontent.com/54503903/142921293-0a2faf2e-959a-4585-bfdf-57be1982e232.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/54503903/142921627-716dd9fb-6270-45a8-b3f7-567944a5eda0.png)
 
+### **TECNOLOGIAS UTILIZADAS**
+#### **JAVA**
+![Screenshot_5](https://user-images.githubusercontent.com/54503903/142946345-bcb779b8-0c4e-4634-83cb-7325b56d761b.png)
+
+Pensando em diminuir nossa curva de aprendizado, utilizamos a Linguagem Java que estava sendo introduzida em algumas disciplinas durante o semestre. A linguagem Java é orientada a objetos e possui muitos frameworks e bibliotecas. Utilizamos ela para desenvolver o nosso back-end.
+
+Bibliotecas utilizadas:
+
+-JavaFx: É uma biblioteca para desenvolvimento de programas com interfaces gráficas em Java. Optamos por utiliza-la devido ao pouco conhecimento que os integrantes do grupo tinham com o Java, estavamos com dificuldade em integrar o back end em java com o front em html. Hoje em dia olhando para trás penso que a alternativa não foi tão assertiva, pois cada vez menos vemos aplicações desktop sendo utilizadas em clientes final.
+-Nebula: É uma biblioteca do Eclipse utilizada para desenvolver vários gadgets em aplicações. Encontramos ela durante as pesquisas que estavamos realizando para desenvolver o gráfico de Gantt com a possibilidade de fazer Drag and Drop nas tarefas. 
+
+#### **MYSQL**
+![Screenshot_6](https://user-images.githubusercontent.com/54503903/142946420-93441f77-23d9-41e2-aa16-007b24d0b993.png)
+
+Pensando da mesma forma que a tecnologia anterior, utilizamos o Banco de Dados MySql + Interface Gráfica WorkBench que também estavam sendo introduzidos na Disciplina de Arquitetura e Modelagem de Banco de Dados. Utilizamos o WorkBench para criar as Tabelas e Entidades do Nosso Banco Relacional.
+
+
 ################################################################################
 
  ### Descrição:
@@ -101,7 +118,7 @@ Com base nesse briefing, solicita um programa simples e funcional, de baixa manu
 
 ![Gantt2](https://user-images.githubusercontent.com/61089745/141657083-849746d2-3416-47e8-b1b2-66174241bb95.PNG)
 
-### II - TECNOLOGIAS ADOTADAS NA SOLUÇÃO 
+### **TECNOLOGIAS UTILIZADAS**
 
 Para conciliar o aprendizado com as matérias lecionadas na FATEC, escolhemos a linguagem Java para desenvolver o backend e o Banco de Dados MySQL.
 
