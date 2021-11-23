@@ -67,13 +67,16 @@ Pensando da mesma forma que a tecnologia anterior, utilizamos o Banco de Dados M
 IDE utilizada para desenvolver aplicações em Java. Utilizamos ela para desenvolver nossa aplicação.
 
 ### **CONTRIBUIÇÕES INDIVIDUAIS**
-Fiz a integração do back end com a lib Nebula, foi uma tarefa bastante desafiadora, pois a quantidade de tarefas e projetos a serem inseridos no gráfico varia de acordo com o que é criado ou deletado. Para realizar a tarefa utilizei vetores, estruturas de repetição (For), estrutura condicional (If/Else) e conversões de variáveis (String para Date).
+Fiz a integração do back end com a lib Nebula, foi uma tarefa bastante desafiadora, pois a quantidade de tarefas e projetos a serem inseridos no gráfico varia de acordo com o que é criado ou deletado. Para criar a classe que constrói o gráfico utilizei vetores, estruturas de repetição (For), estrutura condicional (If/Else) e conversões de variáveis (String para Date).
 
 ![Screenshot_8](https://user-images.githubusercontent.com/54503903/142952014-18f629eb-8777-44a1-87f5-c8f83ac1f8a2.png)
 
-Fiz a adaptação para salvar as alterações feitas pelo usuário "drag and drop" no banco de dados.
+Dentro da classe que constrói o gráfico, criei o método para salvar as alterações feitas pelo usuário através do "drag and drop" do gráfico no banco de dados.
 
 ![Screenshot_9](https://user-images.githubusercontent.com/54503903/142952433-ee27ebf5-5c4d-4c86-b5c9-8b49106a815f.png)
+
+Classe criada para exibir o gráfico:
+![Screenshot_10](https://user-images.githubusercontent.com/54503903/142953172-d50d0ece-9c7c-471a-9476-df17abdabf01.png)
 
 ################################################################################
 ### **APRENDIZADOS EFETIVOS**
