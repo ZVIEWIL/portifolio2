@@ -1,5 +1,5 @@
 ## LISTA COM O LINK DOS PORTFÓLIOS DOS APIs:
-[API 1° SEMESTRE - **DANZO - Mapeador de Criminalidade ao Redor da FATEC**](https://github.com/ZVIEWIL/portifolio1) 
+[API 1° SEMESTRE - **DANZO - Mapa de Criminalidade ao Redor da FATEC**](https://github.com/ZVIEWIL/portifolio1) 
 
 [API 2° SEMESTRE - **GANTT CHART**](https://github.com/ZVIEWIL/portifolio2)
 
@@ -11,7 +11,7 @@
 No segundo API a FATEC trouxe o cliente NECTO com um problema a ser resolvido. O cliente buscava uma solução para gerenciar seus projetos e colaboradores, a aplicação deveria possibilitar a alocação dos recursos humanos em um gráfico de GANTT (tarefas em linhas de tempo), gerando métricas sobre a ocupação e o tempo disponível da equipe para novos projetos e contingências. 
 
 Desenvolvemos uma API Desktop que atendeu os seguintes requisitos do cliente:
-- Cadastro de Usuários: Para utilizar o sistema é necessário estar cadastrado (Usuario e Senha).
+- Cadastro de Usuários: Para utilizar o sistema é necessário estar cadastrado (Usuário e Senha).
 - Cadastro de Colaboradores: O sistema permite a inserção de colaboradores.
 - Cadastro de Tarefas: O sistema permite inserir novos projetos e tarefas relacionando colaboradores a elas.
 - Quantidade Total de Horas por Projeto: O sistema mostra a quantidade de horas alocados em cada projeto.
@@ -51,9 +51,9 @@ Pensando em diminuir nossa curva de aprendizado, utilizamos a Linguagem Java que
 
 Bibliotecas utilizadas:
 
--JavaFx: É uma biblioteca para desenvolvimento de programas com interfaces gráficas em Java. Optamos por utiliza-la devido ao pouco conhecimento que os integrantes do grupo tinham com o Java, estavamos com dificuldade em integrar o back end em java com o front em html. Hoje em dia olhando para trás penso que a alternativa não foi tão assertiva, pois cada vez menos vemos aplicações desktop sendo utilizadas em clientes final.
+-JavaFx: É uma biblioteca para desenvolvimento de programas com interfaces gráficas em Java. Optamos por utilizá-la devido ao pouco conhecimento que os integrantes do grupo tinham com o Java, estavamos com dificuldade em integrar o back end em java com o front em html. Hoje em dia olhando para trás penso que a alternativa não foi tão assertiva, pois cada vez menos vemos aplicações desktop sendo utilizadas em clientes final.
 
--Nebula: É uma biblioteca do Eclipse utilizada para desenvolver vários gadgets em aplicações. Encontramos ela durante as pesquisas que estavamos realizando para desenvolver o gráfico de Gantt com a possibilidade de fazer Drag and Drop nas tarefas. 
+-Nebula: É uma biblioteca do Eclipse utilizada para desenvolver vários gadgets em aplicações. Encontramos ela durante as pesquisas que realizamos para desenvolver o gráfico de Gantt com a possibilidade de fazer Drag and Drop nas tarefas. 
 
 #### **MYSQL**
 ![Screenshot_6](https://user-images.githubusercontent.com/54503903/142946420-93441f77-23d9-41e2-aa16-007b24d0b993.png)
