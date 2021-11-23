@@ -76,6 +76,7 @@ Dentro da classe que constrói o gráfico, criei o método para salvar as altera
 ![Screenshot_9](https://user-images.githubusercontent.com/54503903/142952433-ee27ebf5-5c4d-4c86-b5c9-8b49106a815f.png)
 
 Classe criada para exibir o gráfico:
+
 ![Screenshot_10](https://user-images.githubusercontent.com/54503903/142953172-d50d0ece-9c7c-471a-9476-df17abdabf01.png)
 
 ################################################################################
